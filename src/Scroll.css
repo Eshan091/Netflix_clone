@@ -1,0 +1,32 @@
+.features{
+    border: 4px solid rgba(128, 128, 128, 0.295);
+    border-left: none;
+    border-right: none;
+    padding: 50px 12%;
+
+    font-size: 22px;
+  
+}
+.content{
+display: flex;
+width: 100%;
+align-items: center;
+flex-wrap: wrap;
+padding: 50px 0;
+
+}
+.text{
+    flex-basis: 50%;
+    margin-bottom: 20px;
+
+}
+
+.img{
+    flex-basis: 50%;
+    margin-bottom: 20px;
+}
+.img img{
+    display: block;
+    width: 90%;
+    margin: auto;
+}

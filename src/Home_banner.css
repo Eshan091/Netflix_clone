@@ -1,0 +1,62 @@
+*{
+  color: #fff;
+}
+.home_banner {
+  width: 100%;
+
+  height: 100vh;
+
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url("https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/netflixteaser.png");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+.main_content{
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  margin-top: 40px;
+}
+.main_content h1{
+  font-size: 60px;
+  line-height: 70px;
+  font-weight: 600;
+  max-width: 650px;
+}
+.main_content h3{
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.email{
+  background-color: rgba(68, 62, 62, 0.433);
+  border-radius: 4px;
+  border: 1px solid ;
+  display: flex;
+  
+  align-items: center;
+  margin-top: 30px;
+  overflow: hidden;
+}
+.email input{
+  background-color: transparent;
+  flex: 1;
+  border: 0;
+  outline: 0;
+  margin-left: 20px;
+  font-size: 18px;
+  margin-bottom: 10px;
+
+}
+.email button{
+  background-color: #db0001;
+  border: 0;
+  outline: 0;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 15px 30px;
+  height: 76px;
+}
