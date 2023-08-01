@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Screenshot 2023-07-31 121420](https://github.com/Eshan091/Netflix_clone/assets/124865881/cbb447c1-3396-43e8-940a-2c424e53ddab)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
